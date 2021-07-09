@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Bug Bounty Program
+- 🥅 2021 Goals: Bug Bounty Program
 - ⚡ Fun fact: I love to watch K-Dramas
 
 ### Connect with me:
