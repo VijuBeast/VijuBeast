@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working as a Front-End Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Bug Bounty Program
 - ⚡ Fun fact: I love to watch K-Dramas
