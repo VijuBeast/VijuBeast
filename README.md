@@ -2,10 +2,10 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working as a Front-End Developer
+- 🔭 I’m currently working as a Backend-End Developer | Node.Js
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Bug Bounty Program
-- ⚡ Fun fact: I love to watch K-Dramas
+- 🥅 2025 Goals: Developer | DevOps
+- ⚡ Fun fact: I love to travel
 
 ### Connect with me:
 
